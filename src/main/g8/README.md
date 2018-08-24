@@ -2,8 +2,8 @@
 
 Project uses [sbt plugin][sbtplugindoc] of [gatling][gatlingdoc].
 
-[sbtplugindoc] = https://gatling.io/docs/current/extensions/sbt_plugin/
-[gatlingdoc] = https://gatling.io/docs/current/advanced_tutorial/
+[sbtplugindoc]: https://gatling.io/docs/current/extensions/sbt_plugin/
+[gatlingdoc]: https://gatling.io/docs/current/advanced_tutorial/
 
 ### Run
 
