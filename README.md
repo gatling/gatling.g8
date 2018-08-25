@@ -4,8 +4,8 @@
 sbt new spikerlabs/gatling.g8
 ```
 
-For more information on suite, see [template readme][readme].
+For more information on suite, have a look at example [applied template][example].
 
 [g8]: http://www.foundweekends.org/giter8/
 [gatling]: https://gatling.io
-[readme]: src/main/g8/README.md
+[example]: https://github.com/spikerlabs/performance-test-suite-example
