@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/spikerlabs/gatling.g8.svg?branch=master)](https://travis-ci.org/spikerlabs/gatling.g8)
+
 ### A [Giter8][g8] template for [Gatling][gatling] performance test suite
 
 ```
