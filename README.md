@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/spikerlabs/gatling.g8.svg?branch=master)](https://travis-ci.org/spikerlabs/gatling.g8)
+[![Build Status](https://travis-ci.org/gatling/gatling.g8.svg?branch=master)](https://travis-ci.org/gatling/gatling.g8)
 
 ### Original contributor
 
