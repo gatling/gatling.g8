@@ -7,7 +7,7 @@ This template was donated by Arturas Smorgun ([@asarturas])
 ### A [Giter8][g8] template for [Gatling][gatling] performance test suite
 
 ```
-sbt new spikerlabs/gatling.g8
+sbt new gatling/gatling.g8
 ```
 
 For more information on suite, have a look at example [applied template][example].
