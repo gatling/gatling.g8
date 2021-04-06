@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/gatling/gatling.g8.svg?branch=master)](https://travis-ci.org/gatling/gatling.g8)
+[![Build Status](https://github.com/gatling/gatling.g8/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/gatling/gatling.g8/actions/workflows/build.yml)
 
 ### Original contributor
 
